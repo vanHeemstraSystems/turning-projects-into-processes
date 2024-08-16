@@ -11,7 +11,7 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Turning Our Project Into A Process
+## 300 - Turning A Project Into A Process
 
 See [README.md](./300/README.md)
 
